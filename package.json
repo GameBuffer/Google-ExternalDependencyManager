@@ -1,0 +1,21 @@
+{
+    "name": "com.google.externaleependencymanager",
+    "version": "1.2.177",
+    "displayName": "Google-ExternalDependencyManager",
+    "description": "ExternalDependencyManager description",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+    },
+    "keywords": [
+        "externaleependencymanager"
+    ],
+    "author": {
+        "name": "Unity",
+        "email": "unity@example.com",
+        "url": "https://www.unity3d.com"
+    }
+}
